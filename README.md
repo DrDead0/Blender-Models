@@ -1,1 +1,1 @@
-This repo is for private blender models which I created on past few years
+This repo is for blender models which I created on past few years
