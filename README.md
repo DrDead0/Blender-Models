@@ -1,2 +1,2 @@
 # Blender Models 
-This is repo  contain all the model which was created to use for game , website , animation ,short
+This repository contains all the models I've created for developing games, websites, animations, short films, VFX, or any commercial ads.
