@@ -59,7 +59,7 @@ Here's a quick guide on how to utilize the models and animations in your project
 To get started using these assets, simply clone the repository using the following command:
 
 ```bash
-git clone [https://github.com/DrDead0/Blender-Models.git](https://github.com/DrDead0/Blender-Models.git)
+git clone https://github.com/DrDead0/Blender-Models.git
 ```
 
 Once cloned, navigate to the project directory:
