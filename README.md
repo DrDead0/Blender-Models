@@ -46,7 +46,7 @@ Here's a quick guide on how to utilize the models and animations in your project
 
 #### For Animations and VFX
 
-1. Import the models and animations into your animation or VFX software (e.g., Blender, Maya).
+1. Import the models and animations into your animation or VFX software (e.g, Blender, Maya).
 2. Customize and render the scenes according to the specific requirements of your project.
 
 #### For Commercial Ads
@@ -75,9 +75,9 @@ From here, you can follow the specific usage instructions provided earlier based
 We welcome contributions to this repository! If you have models or animations you'd like to share, here's the process:
 
 1. Fork the repository.
-2. Create a new branch for your contribution (e.g., `git checkout -b feature/your-feature`).
-3. Commit your changes with a descriptive message (e.g., `git commit -m "Add new character model"`).
-4. Push your changes to your branch (e.g., `git push origin feature/your-feature`).
+2. Create a new branch for your contribution (e.g, `git checkout -b feature/your-feature`).
+3. Commit your changes with a descriptive message (e.g, `git commit -m "Add new character model"`).
+4. Push your changes to your branch (e.g, `git push origin feature/your-feature`).
 5. Open a pull request to submit your contribution for review and merging.
 
 ## License
